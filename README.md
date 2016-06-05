@@ -1,2 +1,2 @@
 # web-institucional
-Web Instituciona de Denkyl
+Web Institucional de Denkyl
